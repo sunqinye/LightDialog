@@ -1,0 +1,1 @@
+LightDialog是一款jQuery弹窗插件，能够实现基本的开发需求，并且十分轻量，使用方法详见index.html
